@@ -2,7 +2,8 @@ Version 0.1
 
 -> This is some important data
 
--> This is a critical bug
+-> //This is a critical bug
+   fixed critical bug :)
 
 -> This is some kind of function :)
    //some changes in 0.2
