@@ -5,3 +5,4 @@ Version 0.1
 -> This is a critical bug
 
 -> This is some kind of function :)
+   //some changes in 0.2
