@@ -6,3 +6,4 @@ Version 0.1
 
 -> This is some kind of function :)
    //some changes in 0.2
+   //some more changes
