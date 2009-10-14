@@ -1,9 +1,10 @@
-Version 0.2
+Version 0.2.1
 
 -> This is some important data
 
 -> //This is a critical bug
    fixed critical bug :)
+   //more fixes
 
 -> This is some kind of function :)
    //some changes in 0.2
