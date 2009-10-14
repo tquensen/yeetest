@@ -1,4 +1,4 @@
-Version 0.1
+Version 0.2
 
 -> This is some important data
 
@@ -8,3 +8,4 @@ Version 0.1
 -> This is some kind of function :)
    //some changes in 0.2
    //some more changes
+   //cool changes
