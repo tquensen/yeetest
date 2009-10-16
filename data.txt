@@ -10,3 +10,5 @@ Version 0.2.1
    //some changes in 0.2
    //some more changes
    //cool changes
+   
+   //some changes that can be merged to master
